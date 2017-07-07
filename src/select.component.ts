@@ -56,7 +56,7 @@ export class SelectComponent
     hasSelected: boolean = false;
 
     // View state variables.
-		hasFocus: boolean = false;
+    hasFocus: boolean = false;
     isBelow: boolean = true;
     isDisabled: boolean = false;
     isOpen: boolean = false;
